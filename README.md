@@ -2,7 +2,6 @@
 
 [![Build
 Status](https://travis-ci.org/adz/in-overlapping-pairs.svg?branch=master)](https://travis-ci.org/adz/in-overlapping-pairs)
-
 [![npm
 version](https://badge.fury.io/js/in-overlapping-pairs.svg)](https://badge.fury.io/js/in-overlapping-pairs)
 
