@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "Maps out pairs of elements in subarrays",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adz/in-overlapping-pairs.git"
+  },
   "scripts": {
     "compile": "babel -d lib/ src/",
     "prepublish": "npm run compile",
