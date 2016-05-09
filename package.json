@@ -1,8 +1,8 @@
 {
   "name": "in-overlapping-pairs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Maps out pairs of elements in subarrays",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "compile": "babel -d lib/ src/",
     "prepublish": "npm run compile",
