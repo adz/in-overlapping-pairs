@@ -7,7 +7,7 @@
 ## Install
 
 ```
-npm install is-overlapping-pairs
+npm install in-overlapping-pairs
 ```
 
 
