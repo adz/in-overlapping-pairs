@@ -30,4 +30,4 @@ inOverlappingPairs([])
 ```
 ## License
 
-[MIT](http://opensource.org/licenses/MIT) 
+[ISC](http://opensource.org/licenses/ISC) 
