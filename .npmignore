@@ -1,0 +1,2 @@
+# Don't push src files to npm -- just the built lib
+src/
